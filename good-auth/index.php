@@ -40,6 +40,7 @@ $_GET = array();
 <body>
   <h1>Primjer dobre autentifikacije.</h1>
   <p>Ova metoda autentifikacije implementirana je pomoću PHP sjednica.</p>
+  <p>Pritisnite <a href="/bad-auth">ovdje</a> za primjer loše autentifikacije</p>
 
   <p>
   <?php
